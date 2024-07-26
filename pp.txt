@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+table{
+sswidth:100%;}
+tr:nth-fo-type(odd){
+background ;#332;
+color:white;}
+td,th{
+padding:6px;
+text-align:left:}
+</style><table>
+<tr>
+<th>NAME</th>
+<th>REG NO.</th>
+<th>MARKS</th>
+</tr>
+<tr>
+<td>Racchu</td>
+<td>316cs21032</td><td>49</td>
+</tr>
+<tr>
+<td>Anju</td>
+<td>316cs21062</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Pallu</td>
+<td> 316cs21031</td>
+<td>25</td>
+</tr></table>
+<head></html>
